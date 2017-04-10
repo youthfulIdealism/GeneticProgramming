@@ -13,7 +13,7 @@ namespace GeneticProgramming
 {
     /**
      * 
-     *
+     * Drives the simulation, while handling rendering and input.
      * 
      * */
     public class Driver : Game
